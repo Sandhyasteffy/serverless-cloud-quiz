@@ -30,7 +30,10 @@ Users can take a **3-question quiz on cloud computing** and instantly see their 
 
 ## Screenshots
 
-![Quiz Screenshot](./screenshot.png)
+![Quiz Screenshot](Screenshot_2026-01-18_194322.png)
+![Static Website Hosting](Screenshot_2026-01-18_194339.png)
+![Lambda function code](Screenshot_2026-01-18_194801.png)
+![Lambda API Connection](Screenshot_2026-01-18_194801.png)
 
 ---
 
